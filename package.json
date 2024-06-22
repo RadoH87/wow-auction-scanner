@@ -4,8 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "ts-node app.ts",
-    "dev": "tsnd app.ts"
+    "start": "ts-node src/app.ts",
+    "dev": "tsnd src/app.ts"
   },
   "devDependencies": {
     "@eslint/js": "^9.5.0",
