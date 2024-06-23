@@ -1,8 +1,4 @@
 import * as express from "express";
-import * as dotenv from "dotenv";
-
-// Load environment variables from .env file
-dotenv.config();
 
 console.log("Client ID:", process.env.CLIENT_ID); // Add logs for debugging
 
