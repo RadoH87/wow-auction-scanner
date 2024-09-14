@@ -25604,7 +25604,7 @@
   },
   "6416": {
     "id": 6416,
-    "ilevel": "1 @plvl 1 - 327 @plvl 327",
+    "ilevel": "5 @plvl 1 - 551 @plvl 551",
     "curveId": 14096
   },
   "6417": {
@@ -57119,6 +57119,7 @@
       "fullName": "Hero 6/6",
       "bonusId": 10256,
       "itemLevel": 626,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -57305,11 +57306,12 @@
     "upgrade": {
       "group": 334,
       "level": 4,
-      "max": 4,
+      "max": 6,
       "name": "Myth",
-      "fullName": "Myth 4/4",
+      "fullName": "Myth 4/6",
       "bonusId": 10257,
       "itemLevel": 632,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -57496,11 +57498,12 @@
     "upgrade": {
       "group": 334,
       "level": 3,
-      "max": 4,
+      "max": 6,
       "name": "Myth",
-      "fullName": "Myth 3/4",
+      "fullName": "Myth 3/6",
       "bonusId": 10258,
       "itemLevel": 629,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -57687,11 +57690,12 @@
     "upgrade": {
       "group": 334,
       "level": 2,
-      "max": 4,
+      "max": 6,
       "name": "Myth",
-      "fullName": "Myth 2/4",
+      "fullName": "Myth 2/6",
       "bonusId": 10259,
       "itemLevel": 626,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -57878,11 +57882,12 @@
     "upgrade": {
       "group": 334,
       "level": 1,
-      "max": 4,
+      "max": 6,
       "name": "Myth",
-      "fullName": "Myth 1/4",
+      "fullName": "Myth 1/6",
       "bonusId": 10260,
       "itemLevel": 623,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -58074,6 +58079,7 @@
       "fullName": "Hero 5/6",
       "bonusId": 10261,
       "itemLevel": 623,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -58265,6 +58271,7 @@
       "fullName": "Hero 4/6",
       "bonusId": 10262,
       "itemLevel": 619,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -58456,6 +58463,7 @@
       "fullName": "Hero 3/6",
       "bonusId": 10263,
       "itemLevel": 616,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -58647,6 +58655,7 @@
       "fullName": "Hero 2/6",
       "bonusId": 10264,
       "itemLevel": 613,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -58838,6 +58847,7 @@
       "fullName": "Hero 1/6",
       "bonusId": 10265,
       "itemLevel": 610,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -59029,6 +59039,7 @@
       "fullName": "Champion 8/8",
       "bonusId": 10266,
       "itemLevel": 619,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -59220,6 +59231,7 @@
       "fullName": "Champion 7/8",
       "bonusId": 10267,
       "itemLevel": 616,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -59411,6 +59423,7 @@
       "fullName": "Champion 6/8",
       "bonusId": 10268,
       "itemLevel": 613,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -59602,6 +59615,7 @@
       "fullName": "Champion 5/8",
       "bonusId": 10269,
       "itemLevel": 610,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -59793,6 +59807,7 @@
       "fullName": "Champion 4/8",
       "bonusId": 10270,
       "itemLevel": 606,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -59984,6 +59999,7 @@
       "fullName": "Champion 3/8",
       "bonusId": 10271,
       "itemLevel": 603,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -60175,6 +60191,7 @@
       "fullName": "Champion 2/8",
       "bonusId": 10272,
       "itemLevel": 600,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -60366,6 +60383,7 @@
       "fullName": "Champion 1/8",
       "bonusId": 10273,
       "itemLevel": 597,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -60557,6 +60575,7 @@
       "fullName": "Veteran 8/8",
       "bonusId": 10274,
       "itemLevel": 606,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -60748,6 +60767,7 @@
       "fullName": "Veteran 7/8",
       "bonusId": 10275,
       "itemLevel": 603,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -60939,6 +60959,7 @@
       "fullName": "Veteran 6/8",
       "bonusId": 10276,
       "itemLevel": 600,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -61130,6 +61151,7 @@
       "fullName": "Veteran 5/8",
       "bonusId": 10277,
       "itemLevel": 597,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -61321,6 +61343,7 @@
       "fullName": "Veteran 4/8",
       "bonusId": 10278,
       "itemLevel": 593,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -61500,7 +61523,7 @@
         }
       ]
     },
-    "quality": 3
+    "quality": 4
   },
   "10279": {
     "id": 10279,
@@ -61512,6 +61535,7 @@
       "fullName": "Veteran 3/8",
       "bonusId": 10279,
       "itemLevel": 590,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -61691,7 +61715,7 @@
         }
       ]
     },
-    "quality": 3
+    "quality": 4
   },
   "10280": {
     "id": 10280,
@@ -61703,6 +61727,7 @@
       "fullName": "Veteran 2/8",
       "bonusId": 10280,
       "itemLevel": 587,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -61882,7 +61907,7 @@
         }
       ]
     },
-    "quality": 3
+    "quality": 4
   },
   "10281": {
     "id": 10281,
@@ -61894,6 +61919,7 @@
       "fullName": "Veteran 1/8",
       "bonusId": 10281,
       "itemLevel": 584,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -62073,7 +62099,7 @@
         }
       ]
     },
-    "quality": 3
+    "quality": 4
   },
   "10282": {
     "id": 10282,
@@ -62085,6 +62111,7 @@
       "fullName": "Explorer 8/8",
       "bonusId": 10282,
       "itemLevel": 580,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -62228,6 +62255,7 @@
       "fullName": "Explorer 7/8",
       "bonusId": 10283,
       "itemLevel": 577,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -62371,6 +62399,7 @@
       "fullName": "Explorer 6/8",
       "bonusId": 10284,
       "itemLevel": 574,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -62514,6 +62543,7 @@
       "fullName": "Explorer 5/8",
       "bonusId": 10285,
       "itemLevel": 571,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -62657,6 +62687,7 @@
       "fullName": "Explorer 4/8",
       "bonusId": 10286,
       "itemLevel": 567,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -62788,7 +62819,7 @@
         }
       ]
     },
-    "quality": 2
+    "quality": 3
   },
   "10287": {
     "id": 10287,
@@ -62800,6 +62831,7 @@
       "fullName": "Explorer 3/8",
       "bonusId": 10287,
       "itemLevel": 564,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -62931,7 +62963,7 @@
         }
       ]
     },
-    "quality": 2
+    "quality": 3
   },
   "10288": {
     "id": 10288,
@@ -62943,6 +62975,7 @@
       "fullName": "Explorer 2/8",
       "bonusId": 10288,
       "itemLevel": 561,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -63086,6 +63119,7 @@
       "fullName": "Explorer 1/8",
       "bonusId": 10289,
       "itemLevel": 558,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -63229,6 +63263,7 @@
       "fullName": "Adventurer 8/8",
       "bonusId": 10290,
       "itemLevel": 593,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -63408,7 +63443,7 @@
         }
       ]
     },
-    "quality": 3
+    "quality": 4
   },
   "10291": {
     "id": 10291,
@@ -63420,6 +63455,7 @@
       "fullName": "Adventurer 7/8",
       "bonusId": 10291,
       "itemLevel": 590,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -63599,7 +63635,7 @@
         }
       ]
     },
-    "quality": 3
+    "quality": 4
   },
   "10292": {
     "id": 10292,
@@ -63611,6 +63647,7 @@
       "fullName": "Adventurer 6/8",
       "bonusId": 10292,
       "itemLevel": 587,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -63790,7 +63827,7 @@
         }
       ]
     },
-    "quality": 3
+    "quality": 4
   },
   "10293": {
     "id": 10293,
@@ -63802,6 +63839,7 @@
       "fullName": "Adventurer 5/8",
       "bonusId": 10293,
       "itemLevel": 584,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -63981,7 +64019,7 @@
         }
       ]
     },
-    "quality": 3
+    "quality": 4
   },
   "10294": {
     "id": 10294,
@@ -63993,6 +64031,7 @@
       "fullName": "Adventurer 4/8",
       "bonusId": 10294,
       "itemLevel": 580,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -64136,6 +64175,7 @@
       "fullName": "Adventurer 3/8",
       "bonusId": 10295,
       "itemLevel": 577,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -64279,6 +64319,7 @@
       "fullName": "Adventurer 2/8",
       "bonusId": 10296,
       "itemLevel": 574,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -64422,6 +64463,7 @@
       "fullName": "Adventurer 1/8",
       "bonusId": 10297,
       "itemLevel": 571,
+      "seasonId": 24,
       "costs": [
         {
           "mask_inv_type": 1048738,
@@ -64557,11 +64599,387 @@
   },
   "10298": {
     "id": 10298,
-    "quality": 4
+    "quality": 4,
+    "upgrade": {
+      "group": 334,
+      "level": 5,
+      "max": 6,
+      "name": "Myth",
+      "fullName": "Myth 5/6",
+      "bonusId": 10298,
+      "itemLevel": 636,
+      "seasonId": 24,
+      "costs": [
+        {
+          "mask_inv_type": 1048738,
+          "flags": 0,
+          "amounts": [
+            {
+              "currencyId": 3008,
+              "amount": 190,
+              "name": "Valorstones",
+              "icon": "inv_valorstone_base"
+            },
+            {
+              "currencyId": 2917,
+              "amount": 15,
+              "name": "Gilded Harbinger Crest",
+              "icon": "inv_crestupgrade_xalatath_gilded"
+            }
+          ]
+        },
+        {
+          "mask_inv_type": 5448,
+          "flags": 0,
+          "amounts": [
+            {
+              "currencyId": 3008,
+              "amount": 160,
+              "name": "Valorstones",
+              "icon": "inv_valorstone_base"
+            },
+            {
+              "currencyId": 2917,
+              "amount": 15,
+              "name": "Gilded Harbinger Crest",
+              "icon": "inv_crestupgrade_xalatath_gilded"
+            }
+          ]
+        },
+        {
+          "mask_inv_type": 68100,
+          "flags": 0,
+          "amounts": [
+            {
+              "currencyId": 3008,
+              "amount": 100,
+              "name": "Valorstones",
+              "icon": "inv_valorstone_base"
+            },
+            {
+              "currencyId": 2917,
+              "amount": 15,
+              "name": "Gilded Harbinger Crest",
+              "icon": "inv_crestupgrade_xalatath_gilded"
+            }
+          ]
+        },
+        {
+          "mask_inv_type": 8404992,
+          "flags": 0,
+          "amounts": [
+            {
+              "currencyId": 3008,
+              "amount": 100,
+              "name": "Valorstones",
+              "icon": "inv_valorstone_base"
+            },
+            {
+              "currencyId": 2917,
+              "amount": 15,
+              "name": "Gilded Harbinger Crest",
+              "icon": "inv_crestupgrade_xalatath_gilded"
+            }
+          ]
+        },
+        {
+          "mask_inv_type": 8192,
+          "flags": 2,
+          "amounts": [
+            {
+              "currencyId": 3008,
+              "amount": 200,
+              "name": "Valorstones",
+              "icon": "inv_valorstone_base"
+            },
+            {
+              "currencyId": 2917,
+              "amount": 15,
+              "name": "Gilded Harbinger Crest",
+              "icon": "inv_crestupgrade_xalatath_gilded"
+            }
+          ]
+        },
+        {
+          "mask_inv_type": 67272704,
+          "flags": 2,
+          "amounts": [
+            {
+              "currencyId": 3008,
+              "amount": 400,
+              "name": "Valorstones",
+              "icon": "inv_valorstone_base"
+            },
+            {
+              "currencyId": 2917,
+              "amount": 15,
+              "name": "Gilded Harbinger Crest",
+              "icon": "inv_crestupgrade_xalatath_gilded"
+            }
+          ]
+        },
+        {
+          "mask_inv_type": 67117056,
+          "flags": 1,
+          "amounts": [
+            {
+              "currencyId": 3008,
+              "amount": 300,
+              "name": "Valorstones",
+              "icon": "inv_valorstone_base"
+            },
+            {
+              "currencyId": 2917,
+              "amount": 15,
+              "name": "Gilded Harbinger Crest",
+              "icon": "inv_crestupgrade_xalatath_gilded"
+            }
+          ]
+        },
+        {
+          "mask_inv_type": 131072,
+          "flags": 1,
+          "amounts": [
+            {
+              "currencyId": 3008,
+              "amount": 400,
+              "name": "Valorstones",
+              "icon": "inv_valorstone_base"
+            },
+            {
+              "currencyId": 2917,
+              "amount": 15,
+              "name": "Gilded Harbinger Crest",
+              "icon": "inv_crestupgrade_xalatath_gilded"
+            }
+          ]
+        }
+      ],
+      "highWatermarkDiscounts": [
+        {
+          "type": "currency",
+          "id": 3008,
+          "scaling": 0.5,
+          "accountWide": true
+        },
+        {
+          "type": "currency",
+          "id": 2914,
+          "scaling": 0,
+          "accountWide": false
+        },
+        {
+          "type": "currency",
+          "id": 2915,
+          "scaling": 0,
+          "accountWide": false
+        },
+        {
+          "type": "currency",
+          "id": 2916,
+          "scaling": 0,
+          "accountWide": false
+        },
+        {
+          "type": "currency",
+          "id": 2917,
+          "scaling": 0,
+          "accountWide": false
+        }
+      ]
+    }
   },
   "10299": {
     "id": 10299,
-    "quality": 4
+    "quality": 4,
+    "upgrade": {
+      "group": 334,
+      "level": 6,
+      "max": 6,
+      "name": "Myth",
+      "fullName": "Myth 6/6",
+      "bonusId": 10299,
+      "itemLevel": 639,
+      "seasonId": 24,
+      "costs": [
+        {
+          "mask_inv_type": 1048738,
+          "flags": 0,
+          "amounts": [
+            {
+              "currencyId": 3008,
+              "amount": 190,
+              "name": "Valorstones",
+              "icon": "inv_valorstone_base"
+            },
+            {
+              "currencyId": 2917,
+              "amount": 15,
+              "name": "Gilded Harbinger Crest",
+              "icon": "inv_crestupgrade_xalatath_gilded"
+            }
+          ]
+        },
+        {
+          "mask_inv_type": 5448,
+          "flags": 0,
+          "amounts": [
+            {
+              "currencyId": 3008,
+              "amount": 160,
+              "name": "Valorstones",
+              "icon": "inv_valorstone_base"
+            },
+            {
+              "currencyId": 2917,
+              "amount": 15,
+              "name": "Gilded Harbinger Crest",
+              "icon": "inv_crestupgrade_xalatath_gilded"
+            }
+          ]
+        },
+        {
+          "mask_inv_type": 68100,
+          "flags": 0,
+          "amounts": [
+            {
+              "currencyId": 3008,
+              "amount": 100,
+              "name": "Valorstones",
+              "icon": "inv_valorstone_base"
+            },
+            {
+              "currencyId": 2917,
+              "amount": 15,
+              "name": "Gilded Harbinger Crest",
+              "icon": "inv_crestupgrade_xalatath_gilded"
+            }
+          ]
+        },
+        {
+          "mask_inv_type": 8404992,
+          "flags": 0,
+          "amounts": [
+            {
+              "currencyId": 3008,
+              "amount": 100,
+              "name": "Valorstones",
+              "icon": "inv_valorstone_base"
+            },
+            {
+              "currencyId": 2917,
+              "amount": 15,
+              "name": "Gilded Harbinger Crest",
+              "icon": "inv_crestupgrade_xalatath_gilded"
+            }
+          ]
+        },
+        {
+          "mask_inv_type": 8192,
+          "flags": 2,
+          "amounts": [
+            {
+              "currencyId": 3008,
+              "amount": 200,
+              "name": "Valorstones",
+              "icon": "inv_valorstone_base"
+            },
+            {
+              "currencyId": 2917,
+              "amount": 15,
+              "name": "Gilded Harbinger Crest",
+              "icon": "inv_crestupgrade_xalatath_gilded"
+            }
+          ]
+        },
+        {
+          "mask_inv_type": 67272704,
+          "flags": 2,
+          "amounts": [
+            {
+              "currencyId": 3008,
+              "amount": 400,
+              "name": "Valorstones",
+              "icon": "inv_valorstone_base"
+            },
+            {
+              "currencyId": 2917,
+              "amount": 15,
+              "name": "Gilded Harbinger Crest",
+              "icon": "inv_crestupgrade_xalatath_gilded"
+            }
+          ]
+        },
+        {
+          "mask_inv_type": 67117056,
+          "flags": 1,
+          "amounts": [
+            {
+              "currencyId": 3008,
+              "amount": 300,
+              "name": "Valorstones",
+              "icon": "inv_valorstone_base"
+            },
+            {
+              "currencyId": 2917,
+              "amount": 15,
+              "name": "Gilded Harbinger Crest",
+              "icon": "inv_crestupgrade_xalatath_gilded"
+            }
+          ]
+        },
+        {
+          "mask_inv_type": 131072,
+          "flags": 1,
+          "amounts": [
+            {
+              "currencyId": 3008,
+              "amount": 400,
+              "name": "Valorstones",
+              "icon": "inv_valorstone_base"
+            },
+            {
+              "currencyId": 2917,
+              "amount": 15,
+              "name": "Gilded Harbinger Crest",
+              "icon": "inv_crestupgrade_xalatath_gilded"
+            }
+          ]
+        }
+      ],
+      "highWatermarkDiscounts": [
+        {
+          "type": "currency",
+          "id": 3008,
+          "scaling": 0.5,
+          "accountWide": true
+        },
+        {
+          "type": "currency",
+          "id": 2914,
+          "scaling": 0,
+          "accountWide": false
+        },
+        {
+          "type": "currency",
+          "id": 2915,
+          "scaling": 0,
+          "accountWide": false
+        },
+        {
+          "type": "currency",
+          "id": 2916,
+          "scaling": 0,
+          "accountWide": false
+        },
+        {
+          "type": "currency",
+          "id": 2917,
+          "scaling": 0,
+          "accountWide": false
+        }
+      ]
+    }
   },
   "10300": {
     "id": 10300,
@@ -82228,13 +82646,13 @@
   },
   "11069": {
     "id": 11069,
-    "ilevel": "21 @plvl 1 - 558 @plvl 558",
+    "ilevel": "21 @plvl 1 - 554 @plvl 554",
     "curveId": 74086,
     "quality": 3
   },
   "11070": {
     "id": 11070,
-    "ilevel": "21 @plvl 1 - 558 @plvl 558",
+    "ilevel": "21 @plvl 1 - 554 @plvl 554",
     "curveId": 74086,
     "quality": 3
   },
@@ -82251,7 +82669,7 @@
   },
   "11073": {
     "id": 11073,
-    "ilevel": "14 @plvl 1 - 467 @plvl 467",
+    "ilevel": "1 @plvl 1 - 467 @plvl 467",
     "curveId": 74091
   },
   "11074": {
@@ -82701,7 +83119,7 @@
   },
   "11144": {
     "id": 11144,
-    "base_level": 616,
+    "base_level": 623,
     "base_level_priority": 65
   },
   "11145": {
@@ -83781,7 +84199,7 @@
       "spell": {
         "id": 454558,
         "name": "Radiant Focus",
-        "icon": "inv_10_inscription_darkmooncards_spore_blank"
+        "icon": "inv_inscriptions_darkmoondeckshine_0"
       }
     }
   },
@@ -83793,7 +84211,7 @@
       "spell": {
         "id": 458573,
         "name": "Ascendance",
-        "icon": "inv_10_inscription_darkmooncards_air_blank"
+        "icon": "inv_inscriptions_darkmoondeckevolution_0"
       }
     }
   },
@@ -83815,9 +84233,9 @@
       "id": 187511,
       "index": 0,
       "spell": {
-        "id": 455534,
+        "id": 463232,
         "name": "Symbiosis",
-        "icon": "trade_engineering"
+        "icon": "inv_inscriptions_darkmoondeckshine_0"
       }
     }
   },
@@ -83997,22 +84415,2618 @@
   },
   "11334": {
     "id": 11334,
-    "ilevel": "356 @plvl 55 - 551 @plvl 551",
-    "curveId": 71408
+    "ilevel": "363 @plvl 55 - 554 @plvl 554",
+    "curveId": 71409,
+    "quality": 3
   },
   "11335": {
     "id": 11335,
-    "ilevel": "356 @plvl 55 - 551 @plvl 551",
-    "curveId": 71408
+    "ilevel": "363 @plvl 55 - 554 @plvl 554",
+    "curveId": 71409,
+    "quality": 3
   },
   "11336": {
     "id": 11336,
-    "ilevel": "356 @plvl 55 - 551 @plvl 551",
-    "curveId": 71408
+    "ilevel": "363 @plvl 55 - 554 @plvl 554",
+    "curveId": 71409,
+    "quality": 3
   },
   "11337": {
     "id": 11337,
+    "ilevel": "363 @plvl 55 - 554 @plvl 554",
+    "curveId": 71409,
+    "quality": 3
+  },
+  "11338": {
+    "id": 11338,
+    "quality": 3,
+    "base_level": 554,
+    "base_level_priority": 0
+  },
+  "11341": {
+    "id": 11341,
+    "level": 601
+  },
+  "11342": {
+    "id": 11342,
+    "level": 602
+  },
+  "11343": {
+    "id": 11343,
+    "level": 603
+  },
+  "11344": {
+    "id": 11344,
+    "level": 604
+  },
+  "11345": {
+    "id": 11345,
+    "level": 605
+  },
+  "11346": {
+    "id": 11346,
+    "level": 606
+  },
+  "11347": {
+    "id": 11347,
+    "level": 607
+  },
+  "11348": {
+    "id": 11348,
+    "level": 608
+  },
+  "11349": {
+    "id": 11349,
+    "level": 609
+  },
+  "11350": {
+    "id": 11350,
+    "level": 610
+  },
+  "11351": {
+    "id": 11351,
+    "level": 611
+  },
+  "11352": {
+    "id": 11352,
+    "level": 612
+  },
+  "11353": {
+    "id": 11353,
+    "level": 613
+  },
+  "11354": {
+    "id": 11354,
+    "level": 614
+  },
+  "11355": {
+    "id": 11355,
+    "level": 615
+  },
+  "11356": {
+    "id": 11356,
+    "level": 616
+  },
+  "11357": {
+    "id": 11357,
+    "level": 617
+  },
+  "11358": {
+    "id": 11358,
+    "level": 618
+  },
+  "11359": {
+    "id": 11359,
+    "level": 619
+  },
+  "11360": {
+    "id": 11360,
+    "level": 620
+  },
+  "11361": {
+    "id": 11361,
+    "level": 621
+  },
+  "11362": {
+    "id": 11362,
+    "level": 622
+  },
+  "11363": {
+    "id": 11363,
+    "level": 623
+  },
+  "11364": {
+    "id": 11364,
+    "level": 624
+  },
+  "11365": {
+    "id": 11365,
+    "level": 625
+  },
+  "11366": {
+    "id": 11366,
+    "level": 626
+  },
+  "11367": {
+    "id": 11367,
+    "level": 627
+  },
+  "11368": {
+    "id": 11368,
+    "level": 628
+  },
+  "11369": {
+    "id": 11369,
+    "level": 629
+  },
+  "11370": {
+    "id": 11370,
+    "level": 630
+  },
+  "11371": {
+    "id": 11371,
+    "level": 631
+  },
+  "11372": {
+    "id": 11372,
+    "level": 632
+  },
+  "11373": {
+    "id": 11373,
+    "level": 633
+  },
+  "11374": {
+    "id": 11374,
+    "level": 634
+  },
+  "11375": {
+    "id": 11375,
+    "level": 635
+  },
+  "11376": {
+    "id": 11376,
+    "level": 636
+  },
+  "11377": {
+    "id": 11377,
+    "level": 637
+  },
+  "11378": {
+    "id": 11378,
+    "level": 638
+  },
+  "11379": {
+    "id": 11379,
+    "level": 639
+  },
+  "11380": {
+    "id": 11380,
+    "level": 640
+  },
+  "11381": {
+    "id": 11381,
+    "level": 641
+  },
+  "11382": {
+    "id": 11382,
+    "level": 642
+  },
+  "11383": {
+    "id": 11383,
+    "level": 643
+  },
+  "11384": {
+    "id": 11384,
+    "level": 644
+  },
+  "11385": {
+    "id": 11385,
+    "level": 645
+  },
+  "11386": {
+    "id": 11386,
+    "level": 646
+  },
+  "11387": {
+    "id": 11387,
+    "level": 647
+  },
+  "11388": {
+    "id": 11388,
+    "level": 648
+  },
+  "11389": {
+    "id": 11389,
+    "level": 649
+  },
+  "11390": {
+    "id": 11390,
+    "level": 650
+  },
+  "11391": {
+    "id": 11391,
+    "level": 651
+  },
+  "11392": {
+    "id": 11392,
+    "level": 652
+  },
+  "11393": {
+    "id": 11393,
+    "level": 653
+  },
+  "11394": {
+    "id": 11394,
+    "level": 654
+  },
+  "11395": {
+    "id": 11395,
+    "level": 655
+  },
+  "11396": {
+    "id": 11396,
+    "level": 656
+  },
+  "11397": {
+    "id": 11397,
+    "level": 657
+  },
+  "11398": {
+    "id": 11398,
+    "level": 658
+  },
+  "11399": {
+    "id": 11399,
+    "level": 659
+  },
+  "11400": {
+    "id": 11400,
+    "level": 660
+  },
+  "11401": {
+    "id": 11401,
+    "level": 661
+  },
+  "11402": {
+    "id": 11402,
+    "level": 662
+  },
+  "11403": {
+    "id": 11403,
+    "level": 663
+  },
+  "11404": {
+    "id": 11404,
+    "level": 664
+  },
+  "11405": {
+    "id": 11405,
+    "level": 665
+  },
+  "11406": {
+    "id": 11406,
+    "level": 666
+  },
+  "11407": {
+    "id": 11407,
+    "level": 667
+  },
+  "11408": {
+    "id": 11408,
+    "level": 668
+  },
+  "11409": {
+    "id": 11409,
+    "level": 669
+  },
+  "11410": {
+    "id": 11410,
+    "level": 670
+  },
+  "11411": {
+    "id": 11411,
+    "level": 671
+  },
+  "11412": {
+    "id": 11412,
+    "level": 672
+  },
+  "11413": {
+    "id": 11413,
+    "level": 673
+  },
+  "11414": {
+    "id": 11414,
+    "level": 674
+  },
+  "11415": {
+    "id": 11415,
+    "level": 675
+  },
+  "11416": {
+    "id": 11416,
+    "level": 676
+  },
+  "11417": {
+    "id": 11417,
+    "level": 677
+  },
+  "11418": {
+    "id": 11418,
+    "level": 678
+  },
+  "11419": {
+    "id": 11419,
+    "level": 679
+  },
+  "11420": {
+    "id": 11420,
+    "level": 680
+  },
+  "11421": {
+    "id": 11421,
+    "level": 681
+  },
+  "11422": {
+    "id": 11422,
+    "level": 682
+  },
+  "11423": {
+    "id": 11423,
+    "level": 683
+  },
+  "11424": {
+    "id": 11424,
+    "level": 684
+  },
+  "11425": {
+    "id": 11425,
+    "level": 685
+  },
+  "11426": {
+    "id": 11426,
+    "level": 686
+  },
+  "11427": {
+    "id": 11427,
+    "level": 687
+  },
+  "11428": {
+    "id": 11428,
+    "level": 688
+  },
+  "11429": {
+    "id": 11429,
+    "level": 689
+  },
+  "11430": {
+    "id": 11430,
+    "level": 690
+  },
+  "11431": {
+    "id": 11431,
+    "level": 691
+  },
+  "11432": {
+    "id": 11432,
+    "level": 692
+  },
+  "11433": {
+    "id": 11433,
+    "level": 693
+  },
+  "11434": {
+    "id": 11434,
+    "level": 694
+  },
+  "11435": {
+    "id": 11435,
+    "level": 695
+  },
+  "11436": {
+    "id": 11436,
+    "level": 696
+  },
+  "11437": {
+    "id": 11437,
+    "level": 697
+  },
+  "11438": {
+    "id": 11438,
+    "level": 698
+  },
+  "11439": {
+    "id": 11439,
+    "level": 699
+  },
+  "11440": {
+    "id": 11440,
+    "level": 700
+  },
+  "11441": {
+    "id": 11441,
+    "level": 701
+  },
+  "11442": {
+    "id": 11442,
+    "level": 702
+  },
+  "11443": {
+    "id": 11443,
+    "level": 703
+  },
+  "11444": {
+    "id": 11444,
+    "level": 704
+  },
+  "11445": {
+    "id": 11445,
+    "level": 705
+  },
+  "11446": {
+    "id": 11446,
+    "level": 706
+  },
+  "11447": {
+    "id": 11447,
+    "level": 707
+  },
+  "11448": {
+    "id": 11448,
+    "level": 708
+  },
+  "11449": {
+    "id": 11449,
+    "level": 709
+  },
+  "11450": {
+    "id": 11450,
+    "level": 710
+  },
+  "11451": {
+    "id": 11451,
+    "level": 711
+  },
+  "11452": {
+    "id": 11452,
+    "level": 712
+  },
+  "11453": {
+    "id": 11453,
+    "level": 713
+  },
+  "11454": {
+    "id": 11454,
+    "level": 714
+  },
+  "11455": {
+    "id": 11455,
+    "level": 715
+  },
+  "11456": {
+    "id": 11456,
+    "level": 716
+  },
+  "11457": {
+    "id": 11457,
+    "level": 717
+  },
+  "11458": {
+    "id": 11458,
+    "level": 718
+  },
+  "11459": {
+    "id": 11459,
+    "level": 719
+  },
+  "11460": {
+    "id": 11460,
+    "level": 720
+  },
+  "11461": {
+    "id": 11461,
+    "level": 721
+  },
+  "11462": {
+    "id": 11462,
+    "level": 722
+  },
+  "11463": {
+    "id": 11463,
+    "level": 723
+  },
+  "11464": {
+    "id": 11464,
+    "level": 724
+  },
+  "11465": {
+    "id": 11465,
+    "level": 725
+  },
+  "11466": {
+    "id": 11466,
+    "level": 726
+  },
+  "11467": {
+    "id": 11467,
+    "level": 727
+  },
+  "11468": {
+    "id": 11468,
+    "level": 728
+  },
+  "11469": {
+    "id": 11469,
+    "level": 729
+  },
+  "11470": {
+    "id": 11470,
+    "level": 730
+  },
+  "11471": {
+    "id": 11471,
+    "level": 731
+  },
+  "11472": {
+    "id": 11472,
+    "level": 732
+  },
+  "11473": {
+    "id": 11473,
+    "level": 733
+  },
+  "11474": {
+    "id": 11474,
+    "level": 734
+  },
+  "11475": {
+    "id": 11475,
+    "level": 735
+  },
+  "11476": {
+    "id": 11476,
+    "level": 736
+  },
+  "11477": {
+    "id": 11477,
+    "level": 737
+  },
+  "11478": {
+    "id": 11478,
+    "level": 738
+  },
+  "11479": {
+    "id": 11479,
+    "level": 739
+  },
+  "11480": {
+    "id": 11480,
+    "level": 740
+  },
+  "11481": {
+    "id": 11481,
+    "level": 741
+  },
+  "11482": {
+    "id": 11482,
+    "level": 742
+  },
+  "11483": {
+    "id": 11483,
+    "level": 743
+  },
+  "11484": {
+    "id": 11484,
+    "level": 744
+  },
+  "11485": {
+    "id": 11485,
+    "level": 745
+  },
+  "11486": {
+    "id": 11486,
+    "level": 746
+  },
+  "11487": {
+    "id": 11487,
+    "level": 747
+  },
+  "11488": {
+    "id": 11488,
+    "level": 748
+  },
+  "11489": {
+    "id": 11489,
+    "level": 749
+  },
+  "11490": {
+    "id": 11490,
+    "level": 750
+  },
+  "11491": {
+    "id": 11491,
+    "level": 751
+  },
+  "11492": {
+    "id": 11492,
+    "level": 752
+  },
+  "11493": {
+    "id": 11493,
+    "level": 753
+  },
+  "11494": {
+    "id": 11494,
+    "level": 754
+  },
+  "11495": {
+    "id": 11495,
+    "level": 755
+  },
+  "11496": {
+    "id": 11496,
+    "level": 756
+  },
+  "11497": {
+    "id": 11497,
+    "level": 757
+  },
+  "11498": {
+    "id": 11498,
+    "level": 758
+  },
+  "11499": {
+    "id": 11499,
+    "level": 759
+  },
+  "11500": {
+    "id": 11500,
+    "level": 760
+  },
+  "11501": {
+    "id": 11501,
+    "level": 761
+  },
+  "11502": {
+    "id": 11502,
+    "level": 762
+  },
+  "11503": {
+    "id": 11503,
+    "level": 763
+  },
+  "11504": {
+    "id": 11504,
+    "level": 764
+  },
+  "11505": {
+    "id": 11505,
+    "level": 765
+  },
+  "11506": {
+    "id": 11506,
+    "level": 766
+  },
+  "11507": {
+    "id": 11507,
+    "level": 767
+  },
+  "11508": {
+    "id": 11508,
+    "level": 768
+  },
+  "11509": {
+    "id": 11509,
+    "level": 769
+  },
+  "11510": {
+    "id": 11510,
+    "level": 770
+  },
+  "11511": {
+    "id": 11511,
+    "level": 771
+  },
+  "11512": {
+    "id": 11512,
+    "level": 772
+  },
+  "11513": {
+    "id": 11513,
+    "level": 773
+  },
+  "11514": {
+    "id": 11514,
+    "level": 774
+  },
+  "11515": {
+    "id": 11515,
+    "level": 775
+  },
+  "11516": {
+    "id": 11516,
+    "level": 776
+  },
+  "11517": {
+    "id": 11517,
+    "level": 777
+  },
+  "11518": {
+    "id": 11518,
+    "level": 778
+  },
+  "11519": {
+    "id": 11519,
+    "level": 779
+  },
+  "11520": {
+    "id": 11520,
+    "level": 780
+  },
+  "11521": {
+    "id": 11521,
+    "level": 781
+  },
+  "11522": {
+    "id": 11522,
+    "level": 782
+  },
+  "11523": {
+    "id": 11523,
+    "level": 783
+  },
+  "11524": {
+    "id": 11524,
+    "level": 784
+  },
+  "11525": {
+    "id": 11525,
+    "level": 785
+  },
+  "11526": {
+    "id": 11526,
+    "level": 786
+  },
+  "11527": {
+    "id": 11527,
+    "level": 787
+  },
+  "11528": {
+    "id": 11528,
+    "level": 788
+  },
+  "11529": {
+    "id": 11529,
+    "level": 789
+  },
+  "11530": {
+    "id": 11530,
+    "level": 790
+  },
+  "11531": {
+    "id": 11531,
+    "level": 791
+  },
+  "11532": {
+    "id": 11532,
+    "level": 792
+  },
+  "11533": {
+    "id": 11533,
+    "level": 793
+  },
+  "11534": {
+    "id": 11534,
+    "level": 794
+  },
+  "11535": {
+    "id": 11535,
+    "level": 795
+  },
+  "11536": {
+    "id": 11536,
+    "level": 796
+  },
+  "11537": {
+    "id": 11537,
+    "level": 797
+  },
+  "11538": {
+    "id": 11538,
+    "level": 798
+  },
+  "11539": {
+    "id": 11539,
+    "level": 799
+  },
+  "11540": {
+    "id": 11540,
+    "level": 800
+  },
+  "11541": {
+    "id": 11541,
+    "level": 801
+  },
+  "11542": {
+    "id": 11542,
+    "level": 802
+  },
+  "11543": {
+    "id": 11543,
+    "level": 803
+  },
+  "11544": {
+    "id": 11544,
+    "level": 804
+  },
+  "11545": {
+    "id": 11545,
+    "level": 805
+  },
+  "11546": {
+    "id": 11546,
+    "level": 806
+  },
+  "11547": {
+    "id": 11547,
+    "level": 807
+  },
+  "11548": {
+    "id": 11548,
+    "level": 808
+  },
+  "11549": {
+    "id": 11549,
+    "level": 809
+  },
+  "11550": {
+    "id": 11550,
+    "level": 810
+  },
+  "11551": {
+    "id": 11551,
+    "level": 811
+  },
+  "11552": {
+    "id": 11552,
+    "level": 812
+  },
+  "11553": {
+    "id": 11553,
+    "level": 813
+  },
+  "11554": {
+    "id": 11554,
+    "level": 814
+  },
+  "11555": {
+    "id": 11555,
+    "level": 815
+  },
+  "11556": {
+    "id": 11556,
+    "level": 816
+  },
+  "11557": {
+    "id": 11557,
+    "level": 817
+  },
+  "11558": {
+    "id": 11558,
+    "level": 818
+  },
+  "11559": {
+    "id": 11559,
+    "level": 819
+  },
+  "11560": {
+    "id": 11560,
+    "level": 820
+  },
+  "11561": {
+    "id": 11561,
+    "level": 821
+  },
+  "11562": {
+    "id": 11562,
+    "level": 822
+  },
+  "11563": {
+    "id": 11563,
+    "level": 823
+  },
+  "11564": {
+    "id": 11564,
+    "level": 824
+  },
+  "11565": {
+    "id": 11565,
+    "level": 825
+  },
+  "11566": {
+    "id": 11566,
+    "level": 826
+  },
+  "11567": {
+    "id": 11567,
+    "level": 827
+  },
+  "11568": {
+    "id": 11568,
+    "level": 828
+  },
+  "11569": {
+    "id": 11569,
+    "level": 829
+  },
+  "11570": {
+    "id": 11570,
+    "level": 830
+  },
+  "11571": {
+    "id": 11571,
+    "level": 831
+  },
+  "11572": {
+    "id": 11572,
+    "level": 832
+  },
+  "11573": {
+    "id": 11573,
+    "level": 833
+  },
+  "11574": {
+    "id": 11574,
+    "level": 834
+  },
+  "11575": {
+    "id": 11575,
+    "level": 835
+  },
+  "11576": {
+    "id": 11576,
+    "level": 836
+  },
+  "11577": {
+    "id": 11577,
+    "level": 837
+  },
+  "11578": {
+    "id": 11578,
+    "level": 838
+  },
+  "11579": {
+    "id": 11579,
+    "level": 839
+  },
+  "11580": {
+    "id": 11580,
+    "level": 840
+  },
+  "11581": {
+    "id": 11581,
+    "level": 841
+  },
+  "11582": {
+    "id": 11582,
+    "level": 842
+  },
+  "11583": {
+    "id": 11583,
+    "level": 843
+  },
+  "11584": {
+    "id": 11584,
+    "level": 844
+  },
+  "11585": {
+    "id": 11585,
+    "level": 845
+  },
+  "11586": {
+    "id": 11586,
+    "level": 846
+  },
+  "11587": {
+    "id": 11587,
+    "level": 847
+  },
+  "11588": {
+    "id": 11588,
+    "level": 848
+  },
+  "11589": {
+    "id": 11589,
+    "level": 849
+  },
+  "11590": {
+    "id": 11590,
+    "level": 850
+  },
+  "11591": {
+    "id": 11591,
+    "level": 851
+  },
+  "11592": {
+    "id": 11592,
+    "level": 852
+  },
+  "11593": {
+    "id": 11593,
+    "level": 853
+  },
+  "11594": {
+    "id": 11594,
+    "level": 854
+  },
+  "11595": {
+    "id": 11595,
+    "level": 855
+  },
+  "11596": {
+    "id": 11596,
+    "level": 856
+  },
+  "11597": {
+    "id": 11597,
+    "level": 857
+  },
+  "11598": {
+    "id": 11598,
+    "level": 858
+  },
+  "11599": {
+    "id": 11599,
+    "level": 859
+  },
+  "11600": {
+    "id": 11600,
+    "level": 860
+  },
+  "11601": {
+    "id": 11601,
+    "level": 861
+  },
+  "11602": {
+    "id": 11602,
+    "level": 862
+  },
+  "11603": {
+    "id": 11603,
+    "level": 863
+  },
+  "11604": {
+    "id": 11604,
+    "level": 864
+  },
+  "11605": {
+    "id": 11605,
+    "level": 865
+  },
+  "11606": {
+    "id": 11606,
+    "level": 866
+  },
+  "11607": {
+    "id": 11607,
+    "level": 867
+  },
+  "11608": {
+    "id": 11608,
+    "level": 868
+  },
+  "11609": {
+    "id": 11609,
+    "level": 869
+  },
+  "11610": {
+    "id": 11610,
+    "level": 870
+  },
+  "11611": {
+    "id": 11611,
+    "level": 871
+  },
+  "11612": {
+    "id": 11612,
+    "level": 872
+  },
+  "11613": {
+    "id": 11613,
+    "level": 873
+  },
+  "11614": {
+    "id": 11614,
+    "level": 874
+  },
+  "11615": {
+    "id": 11615,
+    "level": 875
+  },
+  "11616": {
+    "id": 11616,
+    "level": 876
+  },
+  "11617": {
+    "id": 11617,
+    "level": 877
+  },
+  "11618": {
+    "id": 11618,
+    "level": 878
+  },
+  "11619": {
+    "id": 11619,
+    "level": 879
+  },
+  "11620": {
+    "id": 11620,
+    "level": 880
+  },
+  "11621": {
+    "id": 11621,
+    "level": 881
+  },
+  "11622": {
+    "id": 11622,
+    "level": 882
+  },
+  "11623": {
+    "id": 11623,
+    "level": 883
+  },
+  "11624": {
+    "id": 11624,
+    "level": 884
+  },
+  "11625": {
+    "id": 11625,
+    "level": 885
+  },
+  "11626": {
+    "id": 11626,
+    "level": 886
+  },
+  "11627": {
+    "id": 11627,
+    "level": 887
+  },
+  "11628": {
+    "id": 11628,
+    "level": 888
+  },
+  "11629": {
+    "id": 11629,
+    "level": 889
+  },
+  "11630": {
+    "id": 11630,
+    "level": 890
+  },
+  "11631": {
+    "id": 11631,
+    "level": 891
+  },
+  "11632": {
+    "id": 11632,
+    "level": 892
+  },
+  "11633": {
+    "id": 11633,
+    "level": 893
+  },
+  "11634": {
+    "id": 11634,
+    "level": 894
+  },
+  "11635": {
+    "id": 11635,
+    "level": 895
+  },
+  "11636": {
+    "id": 11636,
+    "level": 896
+  },
+  "11637": {
+    "id": 11637,
+    "level": 897
+  },
+  "11638": {
+    "id": 11638,
+    "level": 898
+  },
+  "11639": {
+    "id": 11639,
+    "level": 899
+  },
+  "11640": {
+    "id": 11640,
+    "level": 900
+  },
+  "11641": {
+    "id": 11641,
+    "level": -601
+  },
+  "11642": {
+    "id": 11642,
+    "level": -602
+  },
+  "11643": {
+    "id": 11643,
+    "level": -603
+  },
+  "11644": {
+    "id": 11644,
+    "level": -604
+  },
+  "11645": {
+    "id": 11645,
+    "level": -605
+  },
+  "11646": {
+    "id": 11646,
+    "level": -606
+  },
+  "11647": {
+    "id": 11647,
+    "level": -607
+  },
+  "11648": {
+    "id": 11648,
+    "level": -608
+  },
+  "11649": {
+    "id": 11649,
+    "level": -609
+  },
+  "11650": {
+    "id": 11650,
+    "level": -610
+  },
+  "11651": {
+    "id": 11651,
+    "level": -611
+  },
+  "11652": {
+    "id": 11652,
+    "level": -612
+  },
+  "11653": {
+    "id": 11653,
+    "level": -613
+  },
+  "11654": {
+    "id": 11654,
+    "level": -614
+  },
+  "11655": {
+    "id": 11655,
+    "level": -615
+  },
+  "11656": {
+    "id": 11656,
+    "level": -616
+  },
+  "11657": {
+    "id": 11657,
+    "level": -617
+  },
+  "11658": {
+    "id": 11658,
+    "level": -618
+  },
+  "11659": {
+    "id": 11659,
+    "level": -619
+  },
+  "11660": {
+    "id": 11660,
+    "level": -620
+  },
+  "11661": {
+    "id": 11661,
+    "level": -621
+  },
+  "11662": {
+    "id": 11662,
+    "level": -622
+  },
+  "11663": {
+    "id": 11663,
+    "level": -623
+  },
+  "11664": {
+    "id": 11664,
+    "level": -624
+  },
+  "11665": {
+    "id": 11665,
+    "level": -625
+  },
+  "11666": {
+    "id": 11666,
+    "level": -626
+  },
+  "11667": {
+    "id": 11667,
+    "level": -627
+  },
+  "11668": {
+    "id": 11668,
+    "level": -628
+  },
+  "11669": {
+    "id": 11669,
+    "level": -629
+  },
+  "11670": {
+    "id": 11670,
+    "level": -630
+  },
+  "11671": {
+    "id": 11671,
+    "level": -631
+  },
+  "11672": {
+    "id": 11672,
+    "level": -632
+  },
+  "11673": {
+    "id": 11673,
+    "level": -633
+  },
+  "11674": {
+    "id": 11674,
+    "level": -634
+  },
+  "11675": {
+    "id": 11675,
+    "level": -635
+  },
+  "11676": {
+    "id": 11676,
+    "level": -636
+  },
+  "11677": {
+    "id": 11677,
+    "level": -637
+  },
+  "11678": {
+    "id": 11678,
+    "level": -638
+  },
+  "11679": {
+    "id": 11679,
+    "level": -639
+  },
+  "11680": {
+    "id": 11680,
+    "level": -640
+  },
+  "11681": {
+    "id": 11681,
+    "level": -641
+  },
+  "11682": {
+    "id": 11682,
+    "level": -642
+  },
+  "11683": {
+    "id": 11683,
+    "level": -643
+  },
+  "11684": {
+    "id": 11684,
+    "level": -644
+  },
+  "11685": {
+    "id": 11685,
+    "level": -645
+  },
+  "11686": {
+    "id": 11686,
+    "level": -646
+  },
+  "11687": {
+    "id": 11687,
+    "level": -647
+  },
+  "11688": {
+    "id": 11688,
+    "level": -648
+  },
+  "11689": {
+    "id": 11689,
+    "level": -649
+  },
+  "11690": {
+    "id": 11690,
+    "level": -650
+  },
+  "11691": {
+    "id": 11691,
+    "level": -651
+  },
+  "11692": {
+    "id": 11692,
+    "level": -652
+  },
+  "11693": {
+    "id": 11693,
+    "level": -653
+  },
+  "11694": {
+    "id": 11694,
+    "level": -654
+  },
+  "11695": {
+    "id": 11695,
+    "level": -655
+  },
+  "11696": {
+    "id": 11696,
+    "level": -656
+  },
+  "11697": {
+    "id": 11697,
+    "level": -657
+  },
+  "11698": {
+    "id": 11698,
+    "level": -658
+  },
+  "11699": {
+    "id": 11699,
+    "level": -659
+  },
+  "11700": {
+    "id": 11700,
+    "level": -660
+  },
+  "11701": {
+    "id": 11701,
+    "level": -661
+  },
+  "11702": {
+    "id": 11702,
+    "level": -662
+  },
+  "11703": {
+    "id": 11703,
+    "level": -663
+  },
+  "11704": {
+    "id": 11704,
+    "level": -664
+  },
+  "11705": {
+    "id": 11705,
+    "level": -665
+  },
+  "11706": {
+    "id": 11706,
+    "level": -666
+  },
+  "11707": {
+    "id": 11707,
+    "level": -667
+  },
+  "11708": {
+    "id": 11708,
+    "level": -668
+  },
+  "11709": {
+    "id": 11709,
+    "level": -669
+  },
+  "11710": {
+    "id": 11710,
+    "level": -670
+  },
+  "11711": {
+    "id": 11711,
+    "level": -671
+  },
+  "11712": {
+    "id": 11712,
+    "level": -672
+  },
+  "11713": {
+    "id": 11713,
+    "level": -673
+  },
+  "11714": {
+    "id": 11714,
+    "level": -674
+  },
+  "11715": {
+    "id": 11715,
+    "level": -675
+  },
+  "11716": {
+    "id": 11716,
+    "level": -676
+  },
+  "11717": {
+    "id": 11717,
+    "level": -677
+  },
+  "11718": {
+    "id": 11718,
+    "level": -678
+  },
+  "11719": {
+    "id": 11719,
+    "level": -679
+  },
+  "11720": {
+    "id": 11720,
+    "level": -680
+  },
+  "11721": {
+    "id": 11721,
+    "level": -681
+  },
+  "11722": {
+    "id": 11722,
+    "level": -682
+  },
+  "11723": {
+    "id": 11723,
+    "level": -683
+  },
+  "11724": {
+    "id": 11724,
+    "level": -684
+  },
+  "11725": {
+    "id": 11725,
+    "level": -685
+  },
+  "11726": {
+    "id": 11726,
+    "level": -686
+  },
+  "11727": {
+    "id": 11727,
+    "level": -687
+  },
+  "11728": {
+    "id": 11728,
+    "level": -688
+  },
+  "11729": {
+    "id": 11729,
+    "level": -689
+  },
+  "11730": {
+    "id": 11730,
+    "level": -690
+  },
+  "11731": {
+    "id": 11731,
+    "level": -691
+  },
+  "11732": {
+    "id": 11732,
+    "level": -692
+  },
+  "11733": {
+    "id": 11733,
+    "level": -693
+  },
+  "11734": {
+    "id": 11734,
+    "level": -694
+  },
+  "11735": {
+    "id": 11735,
+    "level": -695
+  },
+  "11736": {
+    "id": 11736,
+    "level": -696
+  },
+  "11737": {
+    "id": 11737,
+    "level": -697
+  },
+  "11738": {
+    "id": 11738,
+    "level": -698
+  },
+  "11739": {
+    "id": 11739,
+    "level": -699
+  },
+  "11740": {
+    "id": 11740,
+    "level": -700
+  },
+  "11741": {
+    "id": 11741,
+    "level": -701
+  },
+  "11742": {
+    "id": 11742,
+    "level": -702
+  },
+  "11743": {
+    "id": 11743,
+    "level": -703
+  },
+  "11744": {
+    "id": 11744,
+    "level": -704
+  },
+  "11745": {
+    "id": 11745,
+    "level": -705
+  },
+  "11746": {
+    "id": 11746,
+    "level": -706
+  },
+  "11747": {
+    "id": 11747,
+    "level": -707
+  },
+  "11748": {
+    "id": 11748,
+    "level": -708
+  },
+  "11749": {
+    "id": 11749,
+    "level": -709
+  },
+  "11750": {
+    "id": 11750,
+    "level": -710
+  },
+  "11751": {
+    "id": 11751,
+    "level": -711
+  },
+  "11752": {
+    "id": 11752,
+    "level": -712
+  },
+  "11753": {
+    "id": 11753,
+    "level": -713
+  },
+  "11754": {
+    "id": 11754,
+    "level": -714
+  },
+  "11755": {
+    "id": 11755,
+    "level": -715
+  },
+  "11756": {
+    "id": 11756,
+    "level": -716
+  },
+  "11757": {
+    "id": 11757,
+    "level": -717
+  },
+  "11758": {
+    "id": 11758,
+    "level": -718
+  },
+  "11759": {
+    "id": 11759,
+    "level": -719
+  },
+  "11760": {
+    "id": 11760,
+    "level": -720
+  },
+  "11761": {
+    "id": 11761,
+    "level": -721
+  },
+  "11762": {
+    "id": 11762,
+    "level": -722
+  },
+  "11763": {
+    "id": 11763,
+    "level": -723
+  },
+  "11764": {
+    "id": 11764,
+    "level": -724
+  },
+  "11765": {
+    "id": 11765,
+    "level": -725
+  },
+  "11766": {
+    "id": 11766,
+    "level": -726
+  },
+  "11767": {
+    "id": 11767,
+    "level": -727
+  },
+  "11768": {
+    "id": 11768,
+    "level": -728
+  },
+  "11769": {
+    "id": 11769,
+    "level": -729
+  },
+  "11770": {
+    "id": 11770,
+    "level": -730
+  },
+  "11771": {
+    "id": 11771,
+    "level": -731
+  },
+  "11772": {
+    "id": 11772,
+    "level": -732
+  },
+  "11773": {
+    "id": 11773,
+    "level": -733
+  },
+  "11774": {
+    "id": 11774,
+    "level": -734
+  },
+  "11775": {
+    "id": 11775,
+    "level": -735
+  },
+  "11776": {
+    "id": 11776,
+    "level": -736
+  },
+  "11777": {
+    "id": 11777,
+    "level": -737
+  },
+  "11778": {
+    "id": 11778,
+    "level": -738
+  },
+  "11779": {
+    "id": 11779,
+    "level": -739
+  },
+  "11780": {
+    "id": 11780,
+    "level": -740
+  },
+  "11781": {
+    "id": 11781,
+    "level": -741
+  },
+  "11782": {
+    "id": 11782,
+    "level": -742
+  },
+  "11783": {
+    "id": 11783,
+    "level": -743
+  },
+  "11784": {
+    "id": 11784,
+    "level": -744
+  },
+  "11785": {
+    "id": 11785,
+    "level": -745
+  },
+  "11786": {
+    "id": 11786,
+    "level": -746
+  },
+  "11787": {
+    "id": 11787,
+    "level": -747
+  },
+  "11788": {
+    "id": 11788,
+    "level": -748
+  },
+  "11789": {
+    "id": 11789,
+    "level": -749
+  },
+  "11790": {
+    "id": 11790,
+    "level": -750
+  },
+  "11791": {
+    "id": 11791,
+    "level": -751
+  },
+  "11792": {
+    "id": 11792,
+    "level": -752
+  },
+  "11793": {
+    "id": 11793,
+    "level": -753
+  },
+  "11794": {
+    "id": 11794,
+    "level": -754
+  },
+  "11795": {
+    "id": 11795,
+    "level": -755
+  },
+  "11796": {
+    "id": 11796,
+    "level": -756
+  },
+  "11797": {
+    "id": 11797,
+    "level": -757
+  },
+  "11798": {
+    "id": 11798,
+    "level": -758
+  },
+  "11799": {
+    "id": 11799,
+    "level": -759
+  },
+  "11800": {
+    "id": 11800,
+    "level": -760
+  },
+  "11801": {
+    "id": 11801,
+    "level": -761
+  },
+  "11802": {
+    "id": 11802,
+    "level": -762
+  },
+  "11803": {
+    "id": 11803,
+    "level": -763
+  },
+  "11804": {
+    "id": 11804,
+    "level": -764
+  },
+  "11805": {
+    "id": 11805,
+    "level": -765
+  },
+  "11806": {
+    "id": 11806,
+    "level": -766
+  },
+  "11807": {
+    "id": 11807,
+    "level": -767
+  },
+  "11808": {
+    "id": 11808,
+    "level": -768
+  },
+  "11809": {
+    "id": 11809,
+    "level": -769
+  },
+  "11810": {
+    "id": 11810,
+    "level": -770
+  },
+  "11811": {
+    "id": 11811,
+    "level": -771
+  },
+  "11812": {
+    "id": 11812,
+    "level": -772
+  },
+  "11813": {
+    "id": 11813,
+    "level": -773
+  },
+  "11814": {
+    "id": 11814,
+    "level": -774
+  },
+  "11815": {
+    "id": 11815,
+    "level": -775
+  },
+  "11816": {
+    "id": 11816,
+    "level": -776
+  },
+  "11817": {
+    "id": 11817,
+    "level": -777
+  },
+  "11818": {
+    "id": 11818,
+    "level": -778
+  },
+  "11819": {
+    "id": 11819,
+    "level": -779
+  },
+  "11820": {
+    "id": 11820,
+    "level": -780
+  },
+  "11821": {
+    "id": 11821,
+    "level": -781
+  },
+  "11822": {
+    "id": 11822,
+    "level": -782
+  },
+  "11823": {
+    "id": 11823,
+    "level": -783
+  },
+  "11824": {
+    "id": 11824,
+    "level": -784
+  },
+  "11825": {
+    "id": 11825,
+    "level": -785
+  },
+  "11826": {
+    "id": 11826,
+    "level": -786
+  },
+  "11827": {
+    "id": 11827,
+    "level": -787
+  },
+  "11828": {
+    "id": 11828,
+    "level": -788
+  },
+  "11829": {
+    "id": 11829,
+    "level": -789
+  },
+  "11830": {
+    "id": 11830,
+    "level": -790
+  },
+  "11831": {
+    "id": 11831,
+    "level": -791
+  },
+  "11832": {
+    "id": 11832,
+    "level": -792
+  },
+  "11833": {
+    "id": 11833,
+    "level": -793
+  },
+  "11834": {
+    "id": 11834,
+    "level": -794
+  },
+  "11835": {
+    "id": 11835,
+    "level": -795
+  },
+  "11836": {
+    "id": 11836,
+    "level": -796
+  },
+  "11837": {
+    "id": 11837,
+    "level": -797
+  },
+  "11838": {
+    "id": 11838,
+    "level": -798
+  },
+  "11839": {
+    "id": 11839,
+    "level": -799
+  },
+  "11840": {
+    "id": 11840,
+    "level": -800
+  },
+  "11841": {
+    "id": 11841,
+    "level": -801
+  },
+  "11842": {
+    "id": 11842,
+    "level": -802
+  },
+  "11843": {
+    "id": 11843,
+    "level": -803
+  },
+  "11844": {
+    "id": 11844,
+    "level": -804
+  },
+  "11845": {
+    "id": 11845,
+    "level": -805
+  },
+  "11846": {
+    "id": 11846,
+    "level": -806
+  },
+  "11847": {
+    "id": 11847,
+    "level": -807
+  },
+  "11848": {
+    "id": 11848,
+    "level": -808
+  },
+  "11849": {
+    "id": 11849,
+    "level": -809
+  },
+  "11850": {
+    "id": 11850,
+    "level": -810
+  },
+  "11851": {
+    "id": 11851,
+    "level": -811
+  },
+  "11852": {
+    "id": 11852,
+    "level": -812
+  },
+  "11853": {
+    "id": 11853,
+    "level": -813
+  },
+  "11854": {
+    "id": 11854,
+    "level": -814
+  },
+  "11855": {
+    "id": 11855,
+    "level": -815
+  },
+  "11856": {
+    "id": 11856,
+    "level": -816
+  },
+  "11857": {
+    "id": 11857,
+    "level": -817
+  },
+  "11858": {
+    "id": 11858,
+    "level": -818
+  },
+  "11859": {
+    "id": 11859,
+    "level": -819
+  },
+  "11860": {
+    "id": 11860,
+    "level": -820
+  },
+  "11861": {
+    "id": 11861,
+    "level": -821
+  },
+  "11862": {
+    "id": 11862,
+    "level": -822
+  },
+  "11863": {
+    "id": 11863,
+    "level": -823
+  },
+  "11864": {
+    "id": 11864,
+    "level": -824
+  },
+  "11865": {
+    "id": 11865,
+    "level": -825
+  },
+  "11866": {
+    "id": 11866,
+    "level": -826
+  },
+  "11867": {
+    "id": 11867,
+    "level": -827
+  },
+  "11868": {
+    "id": 11868,
+    "level": -828
+  },
+  "11869": {
+    "id": 11869,
+    "level": -829
+  },
+  "11870": {
+    "id": 11870,
+    "level": -830
+  },
+  "11871": {
+    "id": 11871,
+    "level": -831
+  },
+  "11872": {
+    "id": 11872,
+    "level": -832
+  },
+  "11873": {
+    "id": 11873,
+    "level": -833
+  },
+  "11874": {
+    "id": 11874,
+    "level": -834
+  },
+  "11875": {
+    "id": 11875,
+    "level": -835
+  },
+  "11876": {
+    "id": 11876,
+    "level": -836
+  },
+  "11877": {
+    "id": 11877,
+    "level": -837
+  },
+  "11878": {
+    "id": 11878,
+    "level": -838
+  },
+  "11879": {
+    "id": 11879,
+    "level": -839
+  },
+  "11880": {
+    "id": 11880,
+    "level": -840
+  },
+  "11881": {
+    "id": 11881,
+    "level": -841
+  },
+  "11882": {
+    "id": 11882,
+    "level": -842
+  },
+  "11883": {
+    "id": 11883,
+    "level": -843
+  },
+  "11884": {
+    "id": 11884,
+    "level": -844
+  },
+  "11885": {
+    "id": 11885,
+    "level": -845
+  },
+  "11886": {
+    "id": 11886,
+    "level": -846
+  },
+  "11887": {
+    "id": 11887,
+    "level": -847
+  },
+  "11888": {
+    "id": 11888,
+    "level": -848
+  },
+  "11889": {
+    "id": 11889,
+    "level": -849
+  },
+  "11890": {
+    "id": 11890,
+    "level": -850
+  },
+  "11891": {
+    "id": 11891,
+    "level": -851
+  },
+  "11892": {
+    "id": 11892,
+    "level": -852
+  },
+  "11893": {
+    "id": 11893,
+    "level": -853
+  },
+  "11894": {
+    "id": 11894,
+    "level": -854
+  },
+  "11895": {
+    "id": 11895,
+    "level": -855
+  },
+  "11896": {
+    "id": 11896,
+    "level": -856
+  },
+  "11897": {
+    "id": 11897,
+    "level": -857
+  },
+  "11898": {
+    "id": 11898,
+    "level": -858
+  },
+  "11899": {
+    "id": 11899,
+    "level": -859
+  },
+  "11900": {
+    "id": 11900,
+    "level": -860
+  },
+  "11901": {
+    "id": 11901,
+    "level": -861
+  },
+  "11902": {
+    "id": 11902,
+    "level": -862
+  },
+  "11903": {
+    "id": 11903,
+    "level": -863
+  },
+  "11904": {
+    "id": 11904,
+    "level": -864
+  },
+  "11905": {
+    "id": 11905,
+    "level": -865
+  },
+  "11906": {
+    "id": 11906,
+    "level": -866
+  },
+  "11907": {
+    "id": 11907,
+    "level": -867
+  },
+  "11908": {
+    "id": 11908,
+    "level": -868
+  },
+  "11909": {
+    "id": 11909,
+    "level": -869
+  },
+  "11910": {
+    "id": 11910,
+    "level": -870
+  },
+  "11911": {
+    "id": 11911,
+    "level": -871
+  },
+  "11912": {
+    "id": 11912,
+    "level": -872
+  },
+  "11913": {
+    "id": 11913,
+    "level": -873
+  },
+  "11914": {
+    "id": 11914,
+    "level": -874
+  },
+  "11915": {
+    "id": 11915,
+    "level": -875
+  },
+  "11916": {
+    "id": 11916,
+    "level": -876
+  },
+  "11917": {
+    "id": 11917,
+    "level": -877
+  },
+  "11918": {
+    "id": 11918,
+    "level": -878
+  },
+  "11919": {
+    "id": 11919,
+    "level": -879
+  },
+  "11920": {
+    "id": 11920,
+    "level": -880
+  },
+  "11921": {
+    "id": 11921,
+    "level": -881
+  },
+  "11922": {
+    "id": 11922,
+    "level": -882
+  },
+  "11923": {
+    "id": 11923,
+    "level": -883
+  },
+  "11924": {
+    "id": 11924,
+    "level": -884
+  },
+  "11925": {
+    "id": 11925,
+    "level": -885
+  },
+  "11926": {
+    "id": 11926,
+    "level": -886
+  },
+  "11927": {
+    "id": 11927,
+    "level": -887
+  },
+  "11928": {
+    "id": 11928,
+    "level": -888
+  },
+  "11929": {
+    "id": 11929,
+    "level": -889
+  },
+  "11930": {
+    "id": 11930,
+    "level": -890
+  },
+  "11931": {
+    "id": 11931,
+    "level": -891
+  },
+  "11932": {
+    "id": 11932,
+    "level": -892
+  },
+  "11933": {
+    "id": 11933,
+    "level": -893
+  },
+  "11934": {
+    "id": 11934,
+    "level": -894
+  },
+  "11935": {
+    "id": 11935,
+    "level": -895
+  },
+  "11936": {
+    "id": 11936,
+    "level": -896
+  },
+  "11937": {
+    "id": 11937,
+    "level": -897
+  },
+  "11938": {
+    "id": 11938,
+    "level": -898
+  },
+  "11939": {
+    "id": 11939,
+    "level": -899
+  },
+  "11940": {
+    "id": 11940,
+    "level": -900
+  },
+  "11941": {
+    "id": 11941,
+    "effect": {
+      "id": 190239,
+      "index": 0,
+      "spell": {
+        "id": 463429,
+        "name": "Griftah's All-Purpose Embellishing Powder",
+        "icon": "inv_misc_powder_mithril"
+      }
+    }
+  },
+  "11997": {
+    "id": 11997,
+    "tag": "Mythic+"
+  },
+  "11999": {
+    "id": 11999,
+    "upgrade": {
+      "group": 445,
+      "level": 1,
+      "max": 8,
+      "name": "Explorer",
+      "fullName": "Explorer 1/8",
+      "bonusId": 11999,
+      "itemLevel": 561
+    },
+    "quality": 4
+  },
+  "12001": {
+    "id": 12001,
+    "upgrade": {
+      "group": 445,
+      "level": 2,
+      "max": 8,
+      "name": "Explorer",
+      "fullName": "Explorer 2/8",
+      "bonusId": 12001,
+      "itemLevel": 564
+    },
+    "quality": 4
+  },
+  "12002": {
+    "id": 12002,
+    "upgrade": {
+      "group": 445,
+      "level": 3,
+      "max": 8,
+      "name": "Adventurer",
+      "fullName": "Adventurer 3/8",
+      "bonusId": 12002,
+      "itemLevel": 571
+    },
+    "quality": 4
+  },
+  "12003": {
+    "id": 12003,
+    "upgrade": {
+      "group": 445,
+      "level": 4,
+      "max": 8,
+      "name": "Adventurer",
+      "fullName": "Adventurer 4/8",
+      "bonusId": 12003,
+      "itemLevel": 577
+    },
+    "quality": 4
+  },
+  "12004": {
+    "id": 12004,
+    "upgrade": {
+      "group": 445,
+      "level": 5,
+      "max": 8,
+      "name": "Veteran",
+      "fullName": "Veteran 5/8",
+      "bonusId": 12004,
+      "itemLevel": 584
+    },
+    "quality": 4
+  },
+  "12005": {
+    "id": 12005,
+    "upgrade": {
+      "group": 445,
+      "level": 6,
+      "max": 8,
+      "name": "Veteran",
+      "fullName": "Veteran 6/8",
+      "bonusId": 12005,
+      "itemLevel": 590
+    },
+    "quality": 4
+  },
+  "12006": {
+    "id": 12006,
+    "upgrade": {
+      "group": 445,
+      "level": 7,
+      "max": 8,
+      "name": "Champion",
+      "fullName": "Champion 7/8",
+      "bonusId": 12006,
+      "itemLevel": 597
+    },
+    "quality": 4
+  },
+  "12007": {
+    "id": 12007,
+    "upgrade": {
+      "group": 445,
+      "level": 8,
+      "max": 8,
+      "name": "Champion",
+      "fullName": "Champion 8/8",
+      "bonusId": 12007,
+      "itemLevel": 603
+    },
+    "quality": 4
+  },
+  "12008": {
+    "id": 12008,
+    "tag": "Rank 1/4",
+    "effect": {
+      "id": 190538,
+      "index": 0,
+      "spell": {
+        "id": 464659,
+        "name": "Adding",
+        "icon": "inv_cape_special_explorer_b_03"
+      }
+    }
+  },
+  "12009": {
+    "id": 12009,
+    "tag": "Rank 2/4",
+    "quality": 2,
+    "effect": {
+      "id": 190544,
+      "index": 0,
+      "spell": {
+        "id": 464725,
+        "name": "Adding",
+        "icon": "inv_cape_special_explorer_b_03"
+      }
+    }
+  },
+  "12010": {
+    "id": 12010,
+    "tag": "Rank 3/4",
+    "quality": 3,
+    "effect": {
+      "id": 190545,
+      "index": 0,
+      "spell": {
+        "id": 464726,
+        "name": "Adding",
+        "icon": "inv_cape_special_explorer_b_03"
+      }
+    }
+  },
+  "12011": {
+    "id": 12011,
+    "tag": "Rank 4/4",
+    "quality": 4,
+    "effect": {
+      "id": 190546,
+      "index": 0,
+      "spell": {
+        "id": 464727,
+        "name": "Adding",
+        "icon": "inv_cape_special_explorer_b_03"
+      }
+    }
+  },
+  "12057": {
+    "id": 12057,
     "ilevel": "356 @plvl 55 - 551 @plvl 551",
     "curveId": 71408
+  },
+  "12058": {
+    "id": 12058,
+    "ilevel": "363 @plvl 55 - 554 @plvl 554",
+    "curveId": 71409,
+    "quality": 3
   }
 }
