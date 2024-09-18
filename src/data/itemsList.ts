@@ -1140,12 +1140,6 @@ export const itemsToScan: ItemToScan[] = [
     targetPrice: 200000,
   },
   {
-    id: 223088,
-    name: "Design: Elusive Blasphemite",
-    category: "Recipe",
-    targetPrice: 500,
-  },
-  {
     id: 223083,
     name: "Design: Elemental Focusing Lens",
     category: "Recipe",
@@ -1515,13 +1509,13 @@ export const itemsToScan: ItemToScan[] = [
     id: 223048,
     name: "Plans: Siphoning Stiletto",
     category: "Recipe",
-    targetPrice: 50000,
+    targetPrice: 10000,
   },
   {
     id: 223097,
     name: "Pattern: Adrenal Surge Clasp",
     category: "Recipe",
-    targetPrice: 50000,
+    targetPrice: 20000,
   },
   {
     id: 223038,
@@ -1869,7 +1863,7 @@ export const itemsToScan: ItemToScan[] = [
     id: 223142,
     name: "Formula: Enchant Ring - Cursed Mastery",
     category: "Recipe",
-    targetPrice: 3000,
+    targetPrice: 300,
   },
   {
     id: 223141,
@@ -1905,7 +1899,7 @@ export const itemsToScan: ItemToScan[] = [
     id: 223135,
     name: "Formula: Illusory Adornment: Shadow",
     category: "Recipe",
-    targetPrice: 5000,
+    targetPrice: 500,
   },
   {
     id: 223134,
@@ -1917,7 +1911,7 @@ export const itemsToScan: ItemToScan[] = [
     id: 228708,
     name: "Formula: Gleeful Glamour - Earthen",
     category: "Recipe",
-    targetPrice: 10000,
+    targetPrice: 100,
   },
 
   // BoE Items
@@ -1979,7 +1973,10 @@ export const itemsToScan: ItemToScan[] = [
     id: 225728,
     name: "Acidic Attendant's Loop",
     category: "BoE",
-    targetPrice: 700000,
+    targetPrice: 1000000,
+    minItemLevel: 616,
+    requireSocket: true,
+    requireTertiary: true,
   },
   // {
   //   id: 225723,
