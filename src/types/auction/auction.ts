@@ -38,12 +38,17 @@ export interface AuctionData {
  * Interface representing an item to scan in auctions.
  * This can represent both regular items and pets.
  */
+
 export interface ItemToScan {
   id?: number;
   pet_species_id?: number;
   name: string;
   category: string;
   targetPrice?: number;
+  minItemLevel?: number;
+  maxItemLevel?: number;
+  requireSocket?: boolean;
+  requireTertiary?: boolean;
 }
 
 /**
