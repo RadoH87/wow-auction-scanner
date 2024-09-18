@@ -101,12 +101,67 @@ const scanAuctions = (
         ? item.id === auction.item.id
         : item.pet_species_id === auction.item.pet_species_id
     );
-    return (
-      foundItem &&
-      auction.buyout &&
-      (!foundItem.targetPrice ||
-        auction.buyout <= foundItem.targetPrice * 10000)
-    );
+
+    // test new filter auction
+
+    if (!foundItem || !auction.buyout) {
+      return false;
+    }
+
+    if (foundItem.category === "BoE") {
+      const itemDetails = getItemDetails(
+        auction,
+        raidBotsData,
+        equipableItemsData,
+        foundItem.category
+      );
+
+      // Check minimum item level
+      if (
+        foundItem.minItemLevel &&
+        (!itemDetails.itemLevel ||
+          itemDetails.itemLevel < foundItem.minItemLevel)
+      ) {
+        return false;
+      }
+
+      // Check maximum item level (if set)
+      if (
+        foundItem.maxItemLevel &&
+        itemDetails.itemLevel > foundItem.maxItemLevel
+      ) {
+        return false;
+      }
+
+      // Check for socket presence
+      if (foundItem.requireSocket && !itemDetails.hasSocket) {
+        return false;
+      }
+
+      // Check for tertiary stats presence
+      if (foundItem.requireTertiary && itemDetails.tertiaryStats.length === 0) {
+        return false;
+      }
+
+      // Check price
+      if (
+        foundItem.targetPrice &&
+        auction.buyout > foundItem.targetPrice * 10000
+      ) {
+        return false;
+      }
+
+      // All conditions met
+      return true;
+    } else {
+      // Use existing logic for other categories
+      return (
+        foundItem &&
+        auction.buyout &&
+        (!foundItem.targetPrice ||
+          auction.buyout <= foundItem.targetPrice * 10000)
+      );
+    }
   });
 
   if (filteredAuctions.length === 0) {
