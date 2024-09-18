@@ -26,7 +26,9 @@ const getIlvlIncrease = (
 
 // Checks if the item has a socket based on bonus list
 const checkSocket = (bonusList: number[] = []): boolean => {
-  const socketIDs = [10531, 10589, 10591, 10596, 10597, 10601, 7935, 10878];
+  const socketIDs = [
+    10531, 10589, 10591, 10596, 10597, 10601, 7935, 10878, 10835, 10397,
+  ];
   return (
     Array.isArray(bonusList) && bonusList.some((id) => socketIDs.includes(id))
   );
